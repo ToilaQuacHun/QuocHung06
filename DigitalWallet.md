@@ -13,3 +13,19 @@ Dự án được xây dựng thông qua ngôn ngữ C++, đồng thời là s�
 | Lê Nguyễn Quốc Hùng  | N24DECE070   | Đăng ký/đăng nhập, tester    |
 
 ## 3. Phân tích và đặc tả chức năng 
+### 1. Đăng ký người dùng
+- Tạo tài khoản với tên đăng nhập, mật khẩu, thông tin cá nhân.
+- Có thể được nhập bởi người quản lý nếu người dùng không tự nhập.
+
+### 2. Lưu trữ dữ liệu
+- Lưu toàn bộ người dùng vào 1 file duy nhất, thuận tiện tra cứu.
+- Có bản sao lưu file người dùng.
+
+### 3. Đăng nhập và bảo mật
+- Kiểm tra thông tin người dùng đã đăng ký.
+- Cho phép thay đổi mật khẩu.
+- OTP dùng xác thực thay đổi thông tin.
+
+### 4. Giao dịch ví điểm thưởng
+- Mỗi người dùng có 1 ví điểm với ID duy nhất.
+- Giao dịch chuyển điểm giữa hai ví có kiểm tra số dư và hiển thị số dư

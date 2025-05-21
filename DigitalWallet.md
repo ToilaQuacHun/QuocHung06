@@ -29,3 +29,11 @@ Dự án được xây dựng thông qua ngôn ngữ C++, đồng thời là s�
 ### 4. Giao dịch ví điểm thưởng
 - Mỗi người dùng có 1 ví điểm với ID duy nhất.
 - Giao dịch chuyển điểm giữa hai ví có kiểm tra số dư và hiển thị số dư
+## 4. Cách chạy chương trình
+- Đăng kí tài khoản
+- Đăng nhập
+- Thực hiện giao dịch chuyển điểm
+- Thay đổi mật khẩu
+- Xem thông tin cá nhân
+- Thoát chương trình
+  
